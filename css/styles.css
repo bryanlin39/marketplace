@@ -1,0 +1,13 @@
+.receipt {
+  display: none;
+}
+
+#coupon {
+  display: none;
+}
+
+#click {
+  background-color: tan;
+  border-radius: 2px;
+  padding: 2px;
+}
